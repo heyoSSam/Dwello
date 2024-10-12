@@ -30,9 +30,13 @@ To get started with **Dwello**, follow these steps:
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/YourFeature).
+
 Make your changes and commit them (git commit -m 'Add some feature').
+
 Push to the branch (git push origin feature/YourFeature).
+
 Open a pull request.
 
 ## License
