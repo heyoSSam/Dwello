@@ -4,6 +4,8 @@
 
 html{
   font-family: "Roboto", sans-serif;
+  width: 50%;
+  margin: 0 auto;
 }
 
 @layer base {
